@@ -22,7 +22,7 @@
         <pagehelper.version>5.2.0</pagehelper.version>
         <mybatis-generator.version>1.4.0</mybatis-generator.version>
         <mybatis.version>3.5.5</mybatis.version>
-        <mysql-connector.version>8.0.20</mysql-connector.version>
+        <mysql-connector.version>8.0.28</mysql-connector.version>
 	</properties>
 	<dependencies>
 
